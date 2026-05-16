@@ -1,4 +1,5 @@
 🖐 Hand Gesture Recognition System
+
 A professional real-time Hand Gesture Recognition System developed using Machine Learning, OpenCV, MediaPipe, and Streamlit as part of the SkillCraft Technology Machine Learning Internship.
 
 🚀 Features
@@ -27,9 +28,12 @@ Add your screenshot here
 
 ▶ How to Run the Project
 Step 1 — Clone Repository
+
 git clone https://github.com/ppreethu463-stack/SCT_ML_04.git
 Step 2 — Install Dependencies
+
 pip install -r requirements.txt
+
 Step 3 — Run Streamlit App
 streamlit run app.py
 
@@ -46,12 +50,18 @@ Deep learning optimization
 
 📂 Project Structure
 SCT_ML_4/
+
 │
 ├── app.py
+
 ├── train_model.py
+
 ├── test_mediapipe.py
+
 ├── gesture_model.h5
+
 ├── README.md
+
 └── .gitignore
 
 👨‍💻 Author
